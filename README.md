@@ -2,11 +2,7 @@
 
 An Android application that displays current time, quotes, and images for different countries around the world. Built with Kotlin and Material Design.
 
-## 📱 Screenshots
 
-| Home Screen | Country Info |
-|-------------|--------------|
-| ![Home Screen](screenshots/home.png) | ![Country Info](screenshots/country_info.png) |
 
 ## ✨ Features
 
@@ -34,8 +30,4 @@ An Android application that displays current time, quotes, and images for differ
 - JDK 11 or higher
 - Internet connection (for loading images)
 
-## 🔧 Installation
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/country-time-app.git
